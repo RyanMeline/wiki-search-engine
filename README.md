@@ -11,3 +11,9 @@
 
 A search engine for fandom wiki data parsed with [this wiki table parser](https://github.com/RyanMeline/Wiki-Table-Parser)
 
+
+Note to self: 
+```
+npm run dev
+```
+inside of /backend/ and /frontend/
