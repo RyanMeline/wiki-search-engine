@@ -1,7 +1,7 @@
 # wiki-search-engine
 
 ### Tech Stack
- - React for frontend
+ - React (Vite)
  - Node for backend
  - SQlite + FTS5 for fzf
  - better-sqlite3
