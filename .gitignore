@@ -1,2 +1,7 @@
 # Vim files
 *.*~
+
+node_modules/
+*.db
+.env
+
